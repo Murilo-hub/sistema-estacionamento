@@ -55,7 +55,7 @@ java -cp bin com.parklite.app.Main
 
 Os veículos assinantes são identificados pela placa. Eles não são cobrados por entradas/saídas, pois pagam uma mensalidade fixa.
 
-Você pode cadastrar assinantes diretamente no código (ex: uma lista inicial em Estacionamento.java).
+Para definir um assinante, basta colocar as informações do veiculo e informar se o veiculo é de um assinante.
 
 ---
 
