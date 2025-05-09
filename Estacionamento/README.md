@@ -33,19 +33,19 @@ Este é um sistema simples de estacionamento desenvolvido em Java. Ele permite r
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/estacionamento.git
-cd estacionamento
+git clone https://github.com/Murilo-hub/estacionamento.git
+cd sistema-estacionamento
 ```
 
 2. Compile os arquivos
 
 ```bash
-javac -d bin src/main/java/com/seuusuario/estacionamento/*.java
+javac -d bin src/main/java/com/parklite/estacionamento/*.java
 ```
 
 3.Execute a compilação
 ```bash
-java -cp bin com.seuusuario.estacionamento.Main
+java -cp bin com.parklite.estacionamento.Main
 ```
 
 ---
