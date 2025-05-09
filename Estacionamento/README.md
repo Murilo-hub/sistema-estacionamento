@@ -64,9 +64,9 @@ Você pode cadastrar assinantes diretamente no código (ex: uma lista inicial em
 
 - Persistência de dados (arquivo ou banco de dados)
 
-- Geração de relatórios mensais
-
 - Interface web com Spring Boot
+
+- Cadastro de assinantes por nome e CPF
 
 ---
 
