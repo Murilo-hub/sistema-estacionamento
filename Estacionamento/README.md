@@ -56,7 +56,9 @@ Os veículos assinantes são identificados pela placa. Eles não são cobrados p
 
 Você pode cadastrar assinantes diretamente no código (ex: uma lista inicial em Estacionamento.java).
 
-📌 Melhorias Futuras
+---
+
+# 📌 Melhorias Futuras
 - Interface gráfica (JavaFX ou Swing)
 
 - Persistência de dados (arquivo ou banco de dados)
