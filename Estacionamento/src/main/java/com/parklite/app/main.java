@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class main {
-    public static void main(String[] args){
+    public static void Main(String[] args){
         Estacionamento estacionamento = new Estacionamento();
         Funcionario funcionario = new Funcionario("João", "F001");
         Scanner scanner = new Scanner(System.in);
@@ -73,5 +73,7 @@ public class main {
             }
 
         }
+
+    scanner.close();
     }
 }
