@@ -22,7 +22,7 @@ Este é um sistema simples de estacionamento desenvolvido em Java. Ele permite r
 
 ## 💻 Tecnologias Usadas
 
-- Java 17 (ou compatível com Java 8+)
+- Java 8+
 - Programação orientada a objetos
 - Console (modo texto)
 
@@ -33,19 +33,20 @@ Este é um sistema simples de estacionamento desenvolvido em Java. Ele permite r
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Murilo-hub/estacionamento.git
-cd sistema-estacionamento
+git clone https://github.com/Murilo-hub/sistema-estacionamento.git
+cd sistema-estacionamento/Estacionamento
 ```
 
 2. Compile os arquivos
 
 ```bash
-javac -d bin src/main/java/com/parklite/estacionamento/*.java
+javac -d bin src/main/java/com/parklite/app/*.java
+
 ```
 
 3.Execute a compilação
 ```bash
-java -cp bin com.parklite.estacionamento.Main
+java -cp bin com.parklite.app.Main
 ```
 
 ---
@@ -66,3 +67,8 @@ Você pode cadastrar assinantes diretamente no código (ex: uma lista inicial em
 - Geração de relatórios mensais
 
 - Interface web com Spring Boot
+
+---
+
+# 📜 Licença
+Este projeto é livre para fins de aprendizado e uso pessoal.
